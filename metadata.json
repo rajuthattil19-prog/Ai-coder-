@@ -1,0 +1,5 @@
+{
+  "name": "AI Co-Developer",
+  "description": "An interactive, real-time code generator powered by AI. Users provide prompts step-by-step to build and refine code, with the ability to edit any step in the history and see changes propagate instantly.",
+  "requestFramePermissions": []
+}
